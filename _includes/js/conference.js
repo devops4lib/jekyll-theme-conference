@@ -1,7 +1,7 @@
 // Libraries
 //   Bootstrap (Style Framework)
 {% include js/lib/jquery-3.5.1.min.js %}
-{% include js/lib/popper.min.js %}
+{% include js/lib/a_popper.min.js %}
 {% include js/lib/bootstrap.js %}
 
 //   FontAwesome (Icons)
